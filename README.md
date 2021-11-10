@@ -8,7 +8,7 @@ sudo apt install docker.io -y
 
 #### Building Process
 ```bash
-git clone https://github.com/cpueasy/Docker-ropper.git && Docker-ropper && docker build -t ctf:ubuntu19.10
+git clone https://github.com/cpueasy/Docker-ropper.git && cd Docker-ropper && docker build -t ctf:ubuntu19.10
 ```
 
 #### Running The Container
