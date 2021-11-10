@@ -20,3 +20,7 @@ docker run --rm -v $PWD:/pwd --cap-add=SYS_PTRACE --security-opt seccomp=unconfi
 ```
 docker exec -it ctf /bin/bash
 ```
+#### Resources
+- > [https://ropemporium.com/](https://ropemporium.com/)
+- > [https://pwn.college/](https://pwn.college/)
+- > [https://crackmes.one/](https://crackmes.one/)
